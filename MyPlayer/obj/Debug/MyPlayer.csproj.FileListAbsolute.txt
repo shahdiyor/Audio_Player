@@ -1,0 +1,66 @@
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.config
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\App.g.cs
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer_MarkupCompile.cache
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer_MarkupCompile.lref
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MainWindow.baml
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.g.resources
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.cache
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CopyComplete
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\App.baml
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\NAudio.dll
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\NAudio.xml
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\Bass.Net.dll
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\Bass.Net.xml
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\bass.dll
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer_Content.g.cs
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.manifest
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\bin\Debug\MyPlayer.application
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe.manifest
+C:\Users\shahdiyor\Desktop\MyPlayer\MyPlayer\obj\Debug\MyPlayer.application
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\bass.dll
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.config
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe.manifest
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MyPlayer.application
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MyPlayer.exe
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MyPlayer.pdb
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\Bass.Net.dll
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MaterialDesignColors.dll
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\NAudio.dll
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\Bass.Net.xml
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MaterialDesignColors.pdb
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\bin\Debug\NAudio.xml
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csprojAssemblyReference.cache
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.ResolveComReference.cache
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\App.g.cs
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer_Content.g.cs
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer_MarkupCompile.cache
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer_MarkupCompile.lref
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\App.baml
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MainWindow.baml
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.g.resources
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.Properties.Resources.resources
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.GenerateResource.cache
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CoreCompileInputs.cache
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe.manifest
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.application
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.csproj.CopyComplete
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.exe
+C:\Users\shahdiyor\Desktop\Учёба\2-ый курс\Курсовая\MyPlayer\MyPlayer\obj\Debug\MyPlayer.pdb
